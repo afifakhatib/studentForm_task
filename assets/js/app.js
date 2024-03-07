@@ -52,7 +52,7 @@ const onsumbithandler = (e) => {
   });
 
   showTable.classList.remove('d-none');
-  alertMessage.classList.toggle('d-none')
+  alertMessage.classList.add('d-none')
 
 };
 
